@@ -1,4 +1,3 @@
-# Workshop: Text Classification
 ![banner](./assets/banner.png)
 
 ## Session Schedule
