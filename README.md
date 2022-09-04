@@ -3,7 +3,7 @@
 ## Session Schedule
 - :date: **Date**: July 8th, 2022
 - :alarm_clock: **Time**: 1430 IST
-- **Registration**: [1729.world]()
+- **Registration**: [1729.world](https://1729.world/)
 
 ## Session Outline
 The workshop is designed to get you started with the world of Natural Language Processing (NLP), with special focus on __Text Classification__ task. The following is a list of topics we will cover in this workshop:
